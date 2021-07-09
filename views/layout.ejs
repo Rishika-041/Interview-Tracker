@@ -1,0 +1,21 @@
+<html>
+    <head>
+        <title>Home</title>
+    </head>
+
+    <body>
+     <%- include('partials/header'); -%>
+
+
+    
+      <p>Welcome  <%= user.email %> </p> 
+      <br>
+      <a href = '/topic'>Practice</a>
+      <a href="/experience">Experiences</a>
+     <a href = '/logout'>Logout</a>
+     <% data.forEach( e => {  %>
+                 <img src=<%= e.image %>>
+                 <br>
+     <% }) %> 
+    </body>
+</html>
