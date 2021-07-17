@@ -14,6 +14,7 @@ router.get('/login',authcontroller.login_get);
 router.post('/login',authcontroller.login_post);
 router.get('/logout',authcontroller.logout_get);
 router.get('/topic',authcontroller.topic_get);
+router.get('/practise',authcontroller.topic_get);
 router.get('/addquestion',checkUser,requireAuth,authcontroller.question_get);
 router.post('/addquestion',checkUser,requireAuth,authcontroller.question_post);
 router.get('/addexperience',authcontroller.addexperience_get);

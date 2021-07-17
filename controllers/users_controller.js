@@ -98,7 +98,7 @@ const createToken = (id) => {
         console.log(err)
       }else{
         
-        res.render('practice',{ topic : data});
+        res.render('practise',{ topic : data});
       }
     }
     )};
