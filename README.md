@@ -42,22 +42,9 @@ npm run dev
 
 ### ScreenShots
 #### Home page
-<img src="./screenshots/home.png">
-<img src="./screenshots/home-2.png">
-<img src="./screenshots/home-3.png">
-<img src="./screenshots/login.png">
-Questions Flow
-<img src="./screenshots/practice.png">
-<img src="./screenshots/q.png">
-Interviews Flow
-<img src="./screenshots/companies.png">
-<img src="./screenshots/interviews.png">
-<img src="./screenshots/interview.png">
-<img src="./screenshots/comment.png">
-Profile FLow
-<img src="./screenshots/profile.png">
-<img src="./screenshots/addi.png">
-<img src="./screenshots/myis.png">
-<img src="./screenshots/addq.png">
-<img src="./screenshots/starredqs.png">
+<img src="https://github.com/Rishika-041/Interview-Tracker/blob/master/Screenshot%202021-11-14%20at%2012.27.43%20PM.png">
+<img src="https://github.com/Rishika-041/Interview-Tracker/blob/master/Screenshot%202021-12-09%20at%205.41.37%20PM.png">
+<img src="https://github.com/Rishika-041/Interview-Tracker/blob/master/Screenshot%202021-12-09%20at%205.41.56%20PM.png">
+<img src="https://github.com/Rishika-041/Interview-Tracker/blob/master/Screenshot%202021-12-09%20at%205.42.20%20PM.png">
+<img src="https://github.com/Rishika-041/Interview-Tracker/blob/master/Screenshot%202021-12-09%20at%205.49.18%20PM.png">
 
